@@ -1,3 +1,4 @@
+@testtest
 Feature: Order page
 
   Background: 
@@ -7,7 +8,7 @@ Feature: Order page
     And User click on login button
     And User should logged in into the page
 
-  @testtest
+  
   Scenario: user can place an order witout Shipping address and payment method on file
     And User change the category to 'Smart Home'
     And User search for an item 'kasa outdoor smart plug'

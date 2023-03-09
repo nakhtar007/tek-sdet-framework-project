@@ -4,6 +4,8 @@
 /Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/steps/AccountSteps.java
 /Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/pages/AccountHomePage.java
 /Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/pages/RetailHomePage.java
+/Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/pages/OrderPage.java
 /Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/base/BaseUITEST.java
 /Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/pages/RetailSignInPage.java
 /Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/steps/SignInSteps.java
+/Users/nakhtar/eclipse-workspace/tek-bbd-framework/src/test/java/tek/sdet/framework/steps/OrderSteps.java

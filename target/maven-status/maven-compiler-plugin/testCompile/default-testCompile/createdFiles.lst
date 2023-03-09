@@ -1,4 +1,6 @@
+tek/sdet/framework/pages/OrderPage.class
 tek/sdet/framework/pages/AccountHomePage.class
+tek/sdet/framework/steps/OrderSteps.class
 tek/sdet/framework/steps/RetailSteps.class
 tek/sdet/framework/pages/RetailSignInPage.class
 tek/sdet/framework/steps/AccountSteps.class

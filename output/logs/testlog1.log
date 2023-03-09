@@ -3221,3 +3221,118 @@
 2023-03-06 18:14:06,625 [main] INFO logger_Files - User clicked on proceed to checkout
 2023-03-06 18:14:06,709 [main] INFO logger_Files - User clicked on Add new address link
 2023-03-06 18:14:06,791 [main] INFO logger_Files - salam
+2023-03-08 18:49:20,603 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:49:20,610 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:49:21,393 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:49:23,772 [main] INFO logger_Files - Info Entered
+2023-03-08 18:49:25,895 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:49:28,181 [main] INFO logger_Files - User is logged in
+2023-03-08 18:49:29,680 [main] INFO logger_Files - User seleted the Home Smart category
+2023-03-08 18:49:30,250 [main] INFO logger_Files - User typed the product name in search bar
+2023-03-08 18:49:30,700 [main] INFO logger_Files - User clicked on search button
+2023-03-08 18:49:34,016 [main] INFO logger_Files - User clicked on the searched product
+2023-03-08 18:49:34,190 [main] INFO logger_Files - User selected the quantity (2)
+2023-03-08 18:49:34,287 [main] INFO logger_Files - User clicked on add to cart button
+2023-03-08 18:54:06,329 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:54:06,337 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:54:06,461 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:54:06,737 [main] INFO logger_Files - Info Entered
+2023-03-08 18:54:06,849 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:54:07,698 [main] INFO logger_Files - User is logged in
+2023-03-08 18:54:07,862 [main] INFO logger_Files - User clicked on AccountButton
+2023-03-08 18:54:08,035 [main] INFO logger_Files - User updated the profile value
+2023-03-08 18:54:31,969 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:54:31,970 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:54:32,074 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:54:32,253 [main] INFO logger_Files - Info Entered
+2023-03-08 18:54:32,310 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:54:32,966 [main] INFO logger_Files - User is logged in
+2023-03-08 18:54:33,085 [main] INFO logger_Files - User clicked on AccountButton
+2023-03-08 18:54:33,366 [main] INFO logger_Files - user clicked on change password button
+2023-03-08 18:54:33,368 [main] INFO logger_Files - PasswordUpdatedSuccessfully
+2023-03-08 18:54:36,412 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:54:36,413 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:54:36,496 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:54:36,682 [main] INFO logger_Files - Info Entered
+2023-03-08 18:54:36,725 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:54:37,231 [main] INFO logger_Files - User is logged in
+2023-03-08 18:54:37,336 [main] INFO logger_Files - User clicked on AccountButton
+2023-03-08 18:54:37,386 [main] INFO logger_Files - user clicked on Add A Payment Method
+2023-03-08 18:54:37,716 [main] INFO logger_Files - user filled the payment method info and its displayed
+2023-03-08 18:54:37,768 [main] INFO logger_Files - user click on sumbit payment info
+2023-03-08 18:55:21,159 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:55:21,160 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:55:21,260 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:55:21,443 [main] INFO logger_Files - Info Entered
+2023-03-08 18:55:21,509 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:55:22,419 [main] INFO logger_Files - User is logged in
+2023-03-08 18:55:22,524 [main] INFO logger_Files - User clicked on AccountButton
+2023-03-08 18:55:23,012 [main] INFO logger_Files - User clicked on edit button
+2023-03-08 18:55:23,295 [main] INFO logger_Files - User filled the updated info
+2023-03-08 18:55:23,356 [main] INFO logger_Files - User clicked on Update your Card button
+2023-03-08 18:56:26,688 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:26,689 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:26,754 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:56:26,930 [main] INFO logger_Files - Info Entered
+2023-03-08 18:56:26,984 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:56:27,369 [main] INFO logger_Files - User is logged in
+2023-03-08 18:56:27,475 [main] INFO logger_Files - User clicked on AccountButton
+2023-03-08 18:56:27,531 [main] INFO logger_Files - User clicked on add address option successfully
+2023-03-08 18:56:28,024 [main] INFO logger_Files - User successfully filled the form
+2023-03-08 18:56:28,967 [main] INFO logger_Files - User successfully added a new address
+2023-03-08 18:56:31,156 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:31,157 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:31,334 [main] INFO logger_Files - user searched for product
+2023-03-08 18:56:31,503 [main] INFO logger_Files - The product is displayed on home page
+2023-03-08 18:56:31,687 [main] INFO logger_Files - user clicked on product pokemon
+2023-03-08 18:56:31,832 [main] INFO logger_Files - User Added product to cart successfully
+2023-03-08 18:56:34,081 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:34,082 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:34,174 [main] INFO logger_Files - User clicked on all department option
+2023-03-08 18:56:34,183 [main] INFO logger_Files - Electronic is present
+2023-03-08 18:56:34,207 [main] INFO logger_Files - Computers is present
+2023-03-08 18:56:34,216 [main] INFO logger_Files - Smart Home is present
+2023-03-08 18:56:34,222 [main] INFO logger_Files - Sports is present
+2023-03-08 18:56:34,228 [main] INFO logger_Files - Automative is present
+2023-03-08 18:56:36,386 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:36,387 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:36,479 [main] INFO logger_Files - User clicked on all department option
+2023-03-08 18:56:36,550 [main] INFO logger_Files - User clicked on [[SafariDriver: Safari on MAC (BBFD7AA9-2C54-41D2-87D0-E39A0032C77C)] -> xpath: //div[@class ='sidebar_content-item']/span]
+2023-03-08 18:56:36,581 [main] INFO logger_Files - Accessories is present
+2023-03-08 18:56:36,609 [main] INFO logger_Files - Networking is present
+2023-03-08 18:56:39,576 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:39,577 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:39,702 [main] INFO logger_Files - User clicked on all department option
+2023-03-08 18:56:40,027 [main] INFO logger_Files - User clicked on [[SafariDriver: Safari on MAC (D64287C0-3804-4F88-85F1-48E89D02C0FC)] -> xpath: //div[@class ='sidebar_content-item']/span]
+2023-03-08 18:56:40,061 [main] INFO logger_Files - Athletic Clothing is present
+2023-03-08 18:56:40,110 [main] INFO logger_Files - Exercise & Fitness is present
+2023-03-08 18:56:42,958 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:42,959 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:43,035 [main] INFO logger_Files - User clicked on all department option
+2023-03-08 18:56:43,225 [main] INFO logger_Files - User clicked on [[SafariDriver: Safari on MAC (E54EF87D-9408-4F14-B96C-97A3F7B75375)] -> xpath: //div[@class ='sidebar_content-item']/span]
+2023-03-08 18:56:43,247 [main] INFO logger_Files - Automative Parts & Accessories is present
+2023-03-08 18:56:43,270 [main] INFO logger_Files - MotorCycle & Powersports is present
+2023-03-08 18:56:46,354 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:46,360 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:46,474 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:56:46,620 [main] INFO logger_Files - Info Entered
+2023-03-08 18:56:46,665 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:56:47,311 [main] INFO logger_Files - User is logged in
+2023-03-08 18:56:47,419 [main] INFO logger_Files - User seleted the Home Smart category
+2023-03-08 18:56:47,521 [main] INFO logger_Files - User typed the product name in search bar
+2023-03-08 18:56:47,563 [main] INFO logger_Files - User clicked on search button
+2023-03-08 18:56:50,950 [main] INFO logger_Files - User clicked on the searched product
+2023-03-08 18:56:51,034 [main] INFO logger_Files - User selected the quantity (2)
+2023-03-08 18:56:51,074 [main] INFO logger_Files - User clicked on add to cart button
+2023-03-08 18:56:54,155 [main] INFO logger_Files - user is on retail website
+2023-03-08 18:56:54,156 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 18:56:54,250 [main] INFO logger_Files - User clicked on Sign In button
+2023-03-08 18:56:54,415 [main] INFO logger_Files - Info Entered
+2023-03-08 18:56:54,463 [main] INFO logger_Files - User clicked on login button
+2023-03-08 18:56:54,872 [main] INFO logger_Files - User is logged in
+2023-03-08 18:56:54,922 [main] INFO logger_Files - User seleted the Home Smart category
+2023-03-08 18:56:55,014 [main] INFO logger_Files - User typed the product name in search bar
+2023-03-08 18:56:55,077 [main] INFO logger_Files - User clicked on search button
+2023-03-08 18:56:58,450 [main] INFO logger_Files - User clicked on the searched product
+2023-03-08 18:56:58,572 [main] INFO logger_Files - User selected the quantity (2)
+2023-03-08 18:56:58,621 [main] INFO logger_Files - User clicked on add to cart button

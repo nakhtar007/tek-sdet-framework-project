@@ -1,4 +1,4 @@
-@testttt
+@testtest
 Feature: Verify Account Page 
 
   Background: 
@@ -7,7 +7,7 @@ Feature: Verify Account Page
     And User enters email "zafar@gmail.com" and password "Jafar22@"
     And User click on login button
     Then User should logged in into the page
-  @testtt
+  
   Scenario: Verify User can update Profile Information
     When user click on Account button
     When user update name 'Nectar' and Phone '5719943347'
