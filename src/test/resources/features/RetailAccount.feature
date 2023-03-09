@@ -4,7 +4,7 @@ Feature: Verify Account Page
   Background: 
     Given User is on tek retail website
     When User click on signIn button
-    And User enters email "zeus@gmail.com" and password "Zeus@@22"
+    And User enters email "jesus@gmail.com" and password "Jesus22@"
     And User click on login button
     Then User should logged in into the page
   
@@ -18,7 +18,7 @@ Feature: Verify Account Page
     When user click on Account button
     And User enters below information
       | previousPassword | newPassword | confirmPassword |
-      | Zeus22@@         | NakhtarAsar22@    | NakhtarAsar22@        |
+      | Jesus22@         | NakhtarAsar22@    | NakhtarAsar22@        |
     And User click on Change password button
     Then a message shoud be displayed (Password Updated Successfully)
 
