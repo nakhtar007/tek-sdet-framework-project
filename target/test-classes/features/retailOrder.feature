@@ -4,7 +4,7 @@ Feature: Order page
   Background: 
     Given User is on tek retail website
     When User click on signIn button
-    And User enters email 'zafar@gmail.com' and password 'Jafar22@'
+    And User enters email 'zeus@gmail.com' and password 'Zeus@@22'
     And User click on login button
     And User should logged in into the page
 

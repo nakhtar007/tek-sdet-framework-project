@@ -4,13 +4,13 @@ Feature: Verify Account Page
   Background: 
     Given User is on tek retail website
     When User click on signIn button
-    And User enters email "zafar@gmail.com" and password "Jafar22@"
+    And User enters email "zeus@gmail.com" and password "Zeus@@22"
     And User click on login button
     Then User should logged in into the page
   
   Scenario: Verify User can update Profile Information
     When user click on Account button
-    When user update name 'Nectar' and Phone '5719943347'
+    When user update name 'Nakhtar' and Phone '5719943347'
     When user click on updateButton
     Then user profile information should be updated
 
@@ -18,7 +18,7 @@ Feature: Verify Account Page
     When user click on Account button
     And User enters below information
       | previousPassword | newPassword | confirmPassword |
-      | Jafar22@         | Zafar22@    | Zafar22@        |
+      | Zeus22@@         | NakhtarAsar22@    | NakhtarAsar22@        |
     And User click on Change password button
     Then a message shoud be displayed (Password Updated Successfully)
 
@@ -27,7 +27,7 @@ Feature: Verify Account Page
     And user click on add a Payment method link
     And user fill debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 4433603331152494 | Zafar Asar |               5 |           2023 |          089 |
+      | 4433603331152494 | Zafar Asar |               5 |           2023 |          123 |
     And user click on add your card button
     Then a message should be displayed (paymentMethodAddedSuccessfully)
 
