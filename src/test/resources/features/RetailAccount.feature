@@ -1,4 +1,4 @@
-@testtest
+
 Feature: Verify Account Page 
 
   Background: 
