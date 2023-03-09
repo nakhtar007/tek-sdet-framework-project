@@ -1,7 +1,7 @@
 
 Feature: TEK Retail application SignIn feature
 
-  @smoking
+  
   Scenario: Verify user can signIn into retail application
     Given User is on tek retail website
     When User click on signIn button

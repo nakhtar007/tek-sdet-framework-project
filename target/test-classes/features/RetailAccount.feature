@@ -1,5 +1,4 @@
-
-Feature: Verify Account Page 
+Feature: Verify Account Page
 
   Background: 
     Given User is on tek retail website
@@ -7,7 +6,8 @@ Feature: Verify Account Page
     And User enters email "jesus@gmail.com" and password "Jesus22@"
     And User click on login button
     Then User should logged in into the page
-  
+
+  @smoking
   Scenario: Verify User can update Profile Information
     When user click on Account button
     When user update name 'Nakhtar' and Phone '5719943347'
@@ -17,8 +17,8 @@ Feature: Verify Account Page
   Scenario: Verify user an update password
     When user click on Account button
     And User enters below information
-      | previousPassword | newPassword | confirmPassword |
-      | Jesus22@         | NakhtarAsar22@    | NakhtarAsar22@        |
+      | previousPassword | newPassword    | confirmPassword |
+      | Jesus22@         | NakhtarAsar22@ | NakhtarAsar22@  |
     And User click on Change password button
     Then a message shoud be displayed (Password Updated Successfully)
 
@@ -45,7 +45,6 @@ Feature: Verify Account Page
     And user click on remove option of card section
     Then payment method should be removed
 
- 
   Scenario: Verify User can add an Address
     When user click on Account button
     And User click on Add address option
