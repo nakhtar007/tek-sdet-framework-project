@@ -3691,3 +3691,9 @@
 2023-03-08 22:00:17,389 [main] INFO logger_Files - User updated the profile value
 2023-03-08 22:00:17,452 [main] INFO logger_Files - User clicked on update button
 2023-03-08 22:00:18,367 [main] INFO logger_Files - User updated the profile information successfully
+2023-03-08 22:18:03,458 [main] INFO logger_Files - user is on retail website
+2023-03-08 22:18:03,465 [main] INFO logger_Files - Actual title React App equals ExpectedTitle React App
+2023-03-08 22:18:03,762 [main] INFO logger_Files - user searched for product
+2023-03-08 22:18:03,891 [main] INFO logger_Files - The product is displayed on home page
+2023-03-08 22:18:03,973 [main] INFO logger_Files - user clicked on product pokemon
+2023-03-08 22:18:04,134 [main] INFO logger_Files - User Added product to cart successfully

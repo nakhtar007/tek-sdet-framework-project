@@ -1,6 +1,6 @@
-@testtest
-Feature: This feature is used for testing UI of Retial Page
 
+Feature: This feature is used for testing UI of Retial Page
+@smoking
   Scenario: Verify user can search a product
     Given User is on tek retail website
     When User search for "pokemon" product

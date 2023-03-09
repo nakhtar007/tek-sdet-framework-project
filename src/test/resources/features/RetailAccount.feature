@@ -7,7 +7,7 @@ Feature: Verify Account Page
     And User click on login button
     Then User should logged in into the page
 
-  @smoking
+  
   Scenario: Verify User can update Profile Information
     When user click on Account button
     When user update name 'Nakhtar' and Phone '5719943347'
