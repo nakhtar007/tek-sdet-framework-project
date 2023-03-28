@@ -4,8 +4,10 @@ import java.util.List;
 import java.util.Map;
 
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
 
 import io.cucumber.datatable.DataTable;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import tek.sdet.framework.pages.POMFactory;
@@ -30,7 +32,7 @@ public class AccountSteps extends CommonUtility {
          sendText(factory.accountHomePage().accountPagePhoneField,phone);
          
  	     logger.info("User updated the profile value");
-	 
+ 	    
 	}
 	@When("user click on updateButton")
 	public void userClickOnUpdateButton() {
@@ -65,8 +67,8 @@ public class AccountSteps extends CommonUtility {
 	}
 	@When("user click on add a Payment method link")
 	public void userClickOnAddAPaymentMethodLink() {
-	    click(factory.accountHomePage().addAPaymentMethodLink);
-	    logger.info("user clicked on Add A Payment Method");
+	    click(factory.accountHomePage().addPaymentMethod)
+;	    logger.info("user clicked on Add A Payment Method");
 	    
 	}
 	@When("user fill debit or credit card information")
@@ -175,7 +177,7 @@ public class AccountSteps extends CommonUtility {
 	}
 	@When("User click Add Your Address button")
 	public void userClickAddYourAddressButton() {
-	  click(factory.accountHomePage().addressSectionAddAddressButton);
+	  click(factory.accountHomePage().addAddressBtnCheckkout);
 	}
 	@Then("a message should be displayed ‘Address Added Successfully’")
 	public void aMessageShouldBeDisplayedAddressAddedSuccessfully() {

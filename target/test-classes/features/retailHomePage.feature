@@ -1,6 +1,6 @@
-
+@12321
 Feature: This feature is used for testing UI of Retial Page
-@smoking
+
   Scenario: Verify user can search a product
     Given User is on tek retail website
     When User search for "pokemon" product
@@ -14,7 +14,6 @@ Feature: This feature is used for testing UI of Retial Page
     Then below options are present in Shop by Department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
 
-  
   Scenario Outline: Verify department sidebar options
     Given User is on tek retail website
     When user click on All section
@@ -33,7 +32,7 @@ Feature: This feature is used for testing UI of Retial Page
   Scenario: Verify User can add an item to cart
     Given User is on tek retail website
     When User click on signIn button
-    When User enters email 'jesus@gmail.com' and password 'Jesus22@'
+    When User enters email 'qwerty@gmail.com' and password 'Jesus22@'
     And User click on login button
     Then User should logged in into the page
     And User change the category to 'Smart Home'

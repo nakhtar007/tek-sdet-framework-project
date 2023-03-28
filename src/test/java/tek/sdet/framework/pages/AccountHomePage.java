@@ -30,8 +30,6 @@ public class AccountHomePage extends BaseSetup{
 	public WebElement successPopUpMessage;
 	@FindBy(xpath = "//* [contains(text(),'Change Password')]")
 	public WebElement changePasswordButton;
-	@FindBy(xpath = "//*[contains(text(),'Add a payment method')]")
-	public WebElement addAPaymentMethodLink;
 	@FindBy(id = "cardNumberInput")
 	public WebElement cardNumberInputField;
 	@FindBy(id = "nameOnCardInput")
@@ -75,10 +73,22 @@ public class AccountHomePage extends BaseSetup{
 	public WebElement addressSectionStateDropDown;
 	@FindBy(id = "zipCodeInput")
 	public WebElement addressSectionZipCodeInputField;
-	@FindBy(css = "#addressBtn")
-	public WebElement addressSectionAddAddressButton;
+	
 	@FindBy(xpath = "//div[contains(text(),'Address Added Successfully')]")
 	public WebElement successAddAddressPopUpMessag;
+	
+	@FindBy(xpath = "//button[@class = 'checkout__address-btn']")
+	public WebElement checkoutAddAddressLink;
+	@FindBy(id ="addressBtn")
+	public WebElement addAddressBtnCheckkout;
+	@FindBy(id = "addPaymentBtn")
+	public WebElement  addPaymentBtnInCheckOut;
+    @FindBy(xpath = "//p[contains(text(),'Add a payment method')]")
+    public WebElement addPaymentMethod;
+	
+	
+	
+	
 
 	
 }

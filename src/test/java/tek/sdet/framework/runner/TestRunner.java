@@ -8,7 +8,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@smoking",
+		tags = "@12321235g",
 		features = ("classpath:features"),
 		glue = "tek.sdet.framework",
 		dryRun = false,

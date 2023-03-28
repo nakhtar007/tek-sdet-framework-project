@@ -1,28 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tek.sdet.framework.runner.TestRunner
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 10.492 s <<< FAILURE! - in tek.sdet.framework.runner.TestRunner
-This feature is used for testing UI of Retial Page.Verify user can search a product  Time elapsed: 9.323 s  <<< ERROR!
-org.openqa.selenium.remote.http.ConnectionFailedException: 
-Unable to establish websocket connection to http://localhost:54266/devtools/browser/ad9374dd-c3f4-46c8-8732-bcd07e41f1dc
-Build info: version: '4.4.0', revision: 'e5c75ed026a'
-System info: host: 'Nakhtars-MBP', ip: '2600:1700:10f8:6f0:0:0:0:7c6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.1', java.version: '17.0.4.1'
-Driver info: driver.version: ChromeDriver
-	at org.openqa.selenium.remote.http.netty.NettyWebSocket.<init>(NettyWebSocket.java:102)
-	at org.openqa.selenium.remote.http.netty.NettyWebSocket.lambda$create$3(NettyWebSocket.java:128)
-	at org.openqa.selenium.remote.http.netty.NettyClient.openSocket(NettyClient.java:106)
-	at org.openqa.selenium.devtools.Connection.<init>(Connection.java:77)
-	at org.openqa.selenium.chromium.ChromiumDriver.lambda$new$2(ChromiumDriver.java:116)
-	at java.base/java.util.Optional.map(Optional.java:260)
-	at org.openqa.selenium.chromium.ChromiumDriver.<init>(ChromiumDriver.java:114)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:81)
-	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:70)
-	at tek.sdet.framework.config.ChromeHeadless.openBrowser(ChromeHeadless.java:16)
-	at tek.sdet.framework.base.BaseSetup.setupBrowser(BaseSetup.java:58)
-	at tek.sdet.framework.base.BaseUITEST.setupTests(BaseUITEST.java:11)
-
-This feature is used for testing UI of Retial Page.Verify user can search a product  Time elapsed: 9.328 s  <<< ERROR!
-java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because the return value of "tek.sdet.framework.utilities.CommonUtility.getDriver()" is null
-	at tek.sdet.framework.utilities.CommonUtility.takeScreenShotAsBytes(CommonUtility.java:57)
-	at tek.sdet.framework.base.BaseUITEST.closeTest(BaseUITEST.java:16)
-
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 71.032 s - in tek.sdet.framework.runner.TestRunner

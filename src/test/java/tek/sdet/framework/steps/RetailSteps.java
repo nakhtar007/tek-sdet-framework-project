@@ -117,50 +117,7 @@ public class RetailSteps extends CommonUtility{
 		
 	    
 	}
-	@Then("User change the category to {string}")
-	public void userChangeTheCategoryTo(String selectCategory) {
-		selectByVisibleText(factory.homePage().allDepartmentDropDown,selectCategory);
-		logger.info("User seleted the Home Smart category");
-	}
-	@Then("User search for an item {string}")
-	public void userSearchForAnItem(String productSearch) {
-		sendText(factory.homePage().searchBar,productSearch);
-		logger.info("User typed the product name in search bar");
-	    
-	}
-	@Then("User click on Search icon")
-	public void userClickOnSearchIcon() {
-		click(factory.homePage().searchButton);
-		logger.info("User clicked on search button");
-	    
-	}
-	@Then("User click on item")
-	public void userClickOnItem() throws InterruptedException {
-		click(factory.orderPage().kasaOutdoorPlug);
-		Thread.sleep(3000);
-		logger.info("User clicked on the searched product");
-		
-	    
-	}
-	@Then("User select quantity {int}")
-	public void userSelectQuantity(int qty) {
-		selectByIndex(factory.orderPage().qtyDropdown,qty-1);
-		logger.info("User selected the quantity (2)");
-	}
-	@Then("User click add to Cart button")
-	public void userClickAddToCartButton() {
-		click(factory.orderPage().addTocartButton);
-		logger.info("User clicked on add to cart button");
-	   
-	}
-	@Then("the cart icon quantity should change to {int}")
-	public void theCartIconQuantityShouldChangeTo(Integer expectedQTY) {
-		waitTillPresence(factory.orderPage().cartQty);
-		Assert.assertEquals(factory.orderPage().cartQty.getText(), expectedQTY.toString());
-		logger.info("The quantity is 2 ");
-		
-        	    
-	}
+	
 }
 	  
 	
