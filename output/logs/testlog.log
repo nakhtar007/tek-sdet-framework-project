@@ -6434,3 +6434,15 @@
 2023-03-27 18:02:18,729 - logger_Files -INFO - User wrote headline and description review
 2023-03-27 18:02:19,015 - logger_Files -INFO - User clicked on Add Your Review Button
 2023-03-27 18:02:19,016 - logger_Files -INFO - User successfully left a feedback
+2023-03-28 00:45:38,161 - logger_Files -INFO - user is on retail website
+2023-03-28 00:45:38,179 - logger_Files -INFO - Actual title React App equals ExpectedTitle React App
+2023-03-28 00:45:38,644 - logger_Files -INFO - User clicked on Sign In button
+2023-03-28 00:45:38,913 - logger_Files -INFO - Info Entered
+2023-03-28 00:45:39,204 - logger_Files -INFO - User clicked on login button
+2023-03-28 00:45:39,478 - logger_Files -INFO - User is logged in
+2023-03-28 00:47:34,953 - logger_Files -INFO - user is on retail website
+2023-03-28 00:47:34,962 - logger_Files -INFO - Actual title React App equals ExpectedTitle React App
+2023-03-28 00:47:35,328 - logger_Files -INFO - User clicked on Sign In button
+2023-03-28 00:47:35,560 - logger_Files -INFO - Info Entered
+2023-03-28 00:47:35,895 - logger_Files -INFO - User clicked on login button
+2023-03-28 00:47:36,196 - logger_Files -INFO - User is logged in

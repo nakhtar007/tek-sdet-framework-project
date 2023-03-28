@@ -1,4 +1,4 @@
-@12321
+
 Feature: This feature is used for testing UI of Retial Page
 
   Scenario: Verify user can search a product
